@@ -16,7 +16,7 @@ function loadSkills(skills){
 		}
 		$('#skills').html(skillsInnerHTML);
 }
-/*
+
 function loadProjects(projects){
 	projects.sort(function(a,b){
 		return a.sn-b.sn;
@@ -40,7 +40,7 @@ function loadProjects(projects){
 	}
 	$('#projects').html(projectsInnerHTML);
 }
-*/
+
 function loadWorks(works){
 	works.sort(function(a,b){
 		return a.sn-b.sn;
