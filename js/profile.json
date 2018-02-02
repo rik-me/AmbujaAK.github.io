@@ -28,36 +28,42 @@
 					"courseName": "Introduction to Programming",
 					"courseScore": "9/10",
 					"sn": 1
+
 				},
 				{
 					"courseCode": "IT/PHY/T/112",
 					"courseName": "Physics – I (Module 1 A)",
 					"courseScore": "8/10",
 					"sn": 2
+
 				},
 				{
 					"courseCode": "IT/IEE/T/113",
 					"courseName": "Basic Electronics",
 					"courseScore": "8/10",
 					"sn": 3
+
 				},
 				{
 					"courseCode" : "IT/MATH/T/114",
 					"courseName" : "Mathematics – I (Module 1 & Module 2)",
 					"courseScore" : "8/10",
 					"sn" : 4
+
 				},
 				{
 					"courseCode" : "IT/PE/T/115",
 					"courseName" : "Engineering Mechanics",
 					"courseScore" : "8/10",
 					"sn" : 5
+
 				},
 				{
 					"courseCode" : "IT/PE/T/116",
 					"courseName" : "Electrical Circuits",
 					"courseScore" : "8/10",
 					"sn" : 6
+					
 				},
 			]
 		},
